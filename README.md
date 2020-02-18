@@ -8,6 +8,8 @@ Within the Anaconda Prompt, navigate to the master folder. To process your own v
 ```bash
 python yolo_video.py --input videos/example.mp4 --output output/example.avi --yolo yolo-coco
 ```
-## Check out more on YOLO
+# More About YOLO
+## Medium Article
 Read my article on Medium: https://towardsdatascience.com/real-time-object-detection-with-yolo-9dc039a2596b
+## YouTube Video
 Watch my YouTube video: https://www.youtube.com/watch?v=K0fWqR5I1yo&t=15s
